@@ -22,7 +22,7 @@
 ## 🧭 About Me
 
 I’m a **Full-Stack Developer** who loves building **clean, scalable, and high-performance web apps**.  
-Currently sailing through **React, Node, AWS**, and sharpening my backend skills with **Django** ☁️⚙️  
+Currently sailing through **React, Node, AWS**, and sharpening my backend skills with **FastAPI** ☁️⚙️  
 
 > _“"As long as I'm alive, there are infinite chances"” — Monkey D. Luffy_
 
