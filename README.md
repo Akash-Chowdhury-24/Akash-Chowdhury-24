@@ -39,7 +39,7 @@ Currently sailing through **React, Node, AWS**, and sharpening my backend skills
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
 ### 🗄️ Databases
